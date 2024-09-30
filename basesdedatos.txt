@@ -1,1 +1,1 @@
-base de datos
+nueva aplicacion para desarrollo de base de datos
