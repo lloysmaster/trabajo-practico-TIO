@@ -1,1 +1,2 @@
 encontrados 3 bugs en el index
+Los bugs fueron arreglados

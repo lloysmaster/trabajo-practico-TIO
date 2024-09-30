@@ -1,1 +1,2 @@
 boton en el nav lleva al html incorrecto
+Los botones fueron arreglados
